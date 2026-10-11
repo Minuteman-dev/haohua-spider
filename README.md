@@ -21,5 +21,5 @@
 pip install requests beautifulsoup4 pandas openpyxl
 
 ##运行方式
-安装后终端运行python obj_2.py即可
+安装后在对应路径终端运行python obj_2.py即可
 运行完成后会生成对应的excel表与db文件
